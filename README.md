@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**olga-chist/olga-chist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Привет, меня зовут Оля! 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Начинающий специалист в области Data Science и анализа данных</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📉 Сейчас я работаю над улучшением своих проектов и углублением знаний в Machine Learning.
+- 📕 Изучаю Computer Vision (CV) и Natural Language Processing (NLP) — от предобработки данных до построения моделей.
+- 🐣 Ищу помощь с реализацией своих первых проектов на продакшн-уровне.
+- 💬 Спрашивайте меня о Python, Pandas, классическом ML и о том, как я учусь.
+- ⚡ Интересный факт: Прежде чем погрузиться в Data Science, я работала специалистом по регистрации лекарственных средств.
+
+---
+
+### 🛠 Мой технологический стек:
+
+**Языки и основные библиотеки:**
+*   **Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+*   **SQL**
+*   **Инструменты:** Git, Jupyter Notebook, VS Code
+
+**Навыки:**
+*   Предобработка и анализ данных
+*   Построение и валидация ML-моделей
+*   Визуализация данных
+
+
+---
+
+### 📊 Мои ключевые проекты:
+
+• **[Рекомендательная система фильмов](https://github.com/olga-chist/olga-data_science/tree/main/diplom_RecSys)** — Веб-сервис на Flask с гибридными рекомендациями (коллаборативная + контентная фильтрация). Реализовала полный цикл от анализа до прототипа.
+
+• **[Классификация для банковского депозита](https://github.com/olga-chist/olga-data_science/tree/main/Project_4)** — Решение задачи бинарной классификации. Сравнила 5 моделей, лучшая достигла accuracy 0.84. Python, Sklearn, Optuna.
+
+---
+
+### 📈 Статистика:
+
+<!-- Эти карточки GitHub сгенерирует автоматически -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=olga-chist&theme=default)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olga-chist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Как со мной связаться:
+
+[![Telegram](https://img.shields.io/badge/Telegram-@chisto_olya-blue?style=flat&logo=telegram)](https://t.me/chisto_olya)
+[![Email](https://img.shields.io/badge/Email-chistotinaolya@gmail.com-pink?style=flat&logo=gmail)](mailto:chistotinaolya@gmail.com)
+---
+<div align="center">
+    <i>Всегда открыта к новым возможностям и интересным проектам!</i>

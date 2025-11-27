@@ -30,7 +30,7 @@
 
 • **[Рекомендательная система фильмов](https://github.com/olga-chist/olga-data_science/tree/main/diplom_RecSys)** — Веб-сервис на Flask с гибридными рекомендациями (коллаборативная + контентная фильтрация). Реализовала полный цикл от анализа до прототипа.
 
-• **[Классификация для банковского депозита](https://github.com/olga-chist/olga-data_science/tree/main/Project_4)** — Решение задачи бинарной классификации. Сравнила 5 моделей, лучшая достигла accuracy 0.84. Python, Sklearn, Optuna.
+• **[Классификация для банковского депозита](https://github.com/olga-chist/olga-data_science/tree/main/project_4)** — Решение задачи бинарной классификации. Сравнила 5 моделей, лучшая достигла accuracy 0.84. Python, Sklearn, Optuna.
 
 ---
 
